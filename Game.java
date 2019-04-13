@@ -1,7 +1,7 @@
 /*This is a game project I followed from the teamtreehouse.com course Java Objects. Credit goes to teamtreehouse. */
 
 /**
- * Developed by Kevin Hudson
+ * Developed by Kevin Hudson.
  * 03/24/2019
  * Java Objects learning
  */
